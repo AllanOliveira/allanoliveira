@@ -75,5 +75,5 @@ Atuando como Líder Técnico na [Elo7](https://www.elo7.com.br?utm_source=chatgp
 
 ## Contato
 
-* LinkedIn: [Allan Oliveira Costa LinkedIn](https://www.linkedin.com/in/allanoliveirac/?utm_source=chatgpt.com)
-* GitHub: [AllanOliveira GitHub](https://github.com/AllanOliveira?utm_source=chatgpt.com)
+* LinkedIn: [Allan Oliveira Costa LinkedIn](https://www.linkedin.com/in/allanoliveirac)
+* GitHub: [AllanOliveira GitHub](https://github.com/AllanOliveira?)
